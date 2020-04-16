@@ -1,0 +1,11 @@
+@import "roboto.css";
+
+#body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+#gambarKendaraan{
+    width: 200px;
+    height: 150px;
+}
