@@ -1,11 +1,41 @@
 @import "roboto.css";
 
-#body{
+.body{
     font-family: 'Roboto', sans-serif;
+    background-color: #ebeded !important;
 }
 
+.logoMobil{
+    font-size: 20px;
+    color: #00020f !important;
+}
+.navbar-brand{
+    font-size: 20px;
+    color: #00020f !important;
+}
+
+.nav-login{
+    font-size: 20px;
+    color: #00020f !important;
+}
 
 #gambarKendaraan{
     width: 200px;
     height: 150px;
+}
+
+.box-shadow{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 2px 3px #888888;
+}
+
+.rating{
+    font-size: 20px;
+    color: #ffd900;
+}
+
+.fa-map-marker{
+    font-size: 20px;
+    color: #ff1e00;
 }
